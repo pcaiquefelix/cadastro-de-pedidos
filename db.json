@@ -1,0 +1,38 @@
+{
+  "projects": [
+    {
+      "id": "1",
+      "title": "qwe",
+      "status": "Confirmed"
+    },
+    {
+      "id": "2",
+      "title": "asd",
+      "status": "Pending"
+    },
+    {
+      "id": "3",
+      "title": "zxc",
+      "status": "Canceled"
+    },
+    {
+      "id": "4",
+      "title": "Fourth",
+      "status": "Pending"
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "Confirmed"
+    },
+    {
+      "id": "2",
+      "name": "Pending"
+    },
+    {
+      "id": "3",
+      "name": "Canceled"
+    }
+  ]
+}

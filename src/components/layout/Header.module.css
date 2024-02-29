@@ -1,0 +1,27 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    background-color: #222222;
+    padding: 1em;
+}
+
+.list {
+    display: flex;
+    list-style: none;
+    align-items: center;
+    margin: 0 auto;
+}
+
+.item {
+    margin: 0 5em;
+}
+
+.item a {
+    color: #fff;
+    text-decoration: none;
+    transition: 0.25s;
+}
+
+.item a:hover {
+    color: #61DAFB;
+}

@@ -1,0 +1,28 @@
+.footer {
+    display: flex;
+    background-color: #222;
+    padding: 2em;
+    text-align: center;
+}
+
+.list {
+    display: flex;
+    flex-direction: column;
+    list-style: none;
+    align-items: center;
+    justify-content: center;
+}
+
+.item {
+    margin: 1em 2em;
+}
+
+.item a {
+    color: #fff;
+    text-decoration: none;
+    transition: 0.25s;
+}
+
+.item a:hover {
+    color: #61DAFB;
+}
