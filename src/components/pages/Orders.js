@@ -51,6 +51,7 @@ export default function Orders() {
                         title={project.title}
                         status={project.status}
                         handleRemove={removeOrder}
+                        key={project.id}
                     />
                 ))}
             </Container>

@@ -7,8 +7,8 @@
     },
     {
       "id": "2",
-      "title": "asd",
-      "status": "Pending"
+      "title": "titulo",
+      "status": "Canceled"
     },
     {
       "id": "3",
@@ -19,6 +19,16 @@
       "id": "4",
       "title": "Fourth",
       "status": "Pending"
+    },
+    {
+      "id": "63",
+      "title": "tudto",
+      "status": "Confirmed"
+    },
+    {
+      "id": "20",
+      "title": "sdfs",
+      "status": "Select the status"
     }
   ],
   "categories": [
